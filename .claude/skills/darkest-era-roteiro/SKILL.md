@@ -54,16 +54,19 @@ Depois do roteiro, na resposta, liste as fontes usadas (autor, ano, periódico, 
 
 ## Estilo (baseado nos roteiros de referência)
 
-Os roteiros de referência (Episódio Pluvial Carniano, o mundo após a Grande Mortandade e o ecossistema especulativo) combinam três coisas que o Darkest Era deve manter: **ciência rastreável, ritmo de narração e gancho forte.** O **modelo principal de tom e estrutura é o roteiro do Carniano**; o do Induano contribui só com poucos recursos de imersão (ver "Tom").
+Os roteiros de referência (Episódio Pluvial Carniano, o mundo após a Grande Mortandade e o ecossistema especulativo) combinam três coisas que o Darkest Era deve manter: **ciência rastreável, ritmo de narração e gancho forte.** O **modelo principal de tom e estrutura é o roteiro do Carniano**, junto com o roteiro do Titanoboa, do mesmo canal; o do Induano contribui só com poucos recursos de imersão (ver "Tom").
 
 ### Abertura (hook)
 - Comece ancorado em **uma data e uma cena concreta**: um lugar, um detalhe físico pequeno, um som, um animal ("Around 233 million years ago…"), ou em um **fato extremo e verificável**. A cena vem **antes** de qualquer panorama geral do mundo da época. Nunca abra em "a história de…", em resumo ou com uma descrição geral do planeta.
 - Dentro dos primeiros 30 a 45 segundos, coloque o espectador diante de um **contraste ou uma ruptura** (um mundo seco que começa a mudar, uma chuva que não para) e de uma **tensão a resolver**.
 - Feche a abertura com **2 a 4 perguntas diretas** que o vídeo vai responder (o que causou? por que durou? o que aconteceu com quem vivia ali? como isso mudou a vida?), como no roteiro do Carniano.
+- Quando o tema tiver uma **descoberta** por trás (um sítio, um fóssil, um pesquisador), abra nela: um ano, um lugar, cientistas fazendo algo concreto, e a pista que os "parou" ("In 2009, deep in the sweltering coal mine of…"). Use só quando for verdade e verificável, nunca invente a cena.
 - Prometa só o que o vídeo entrega.
 
 ### Corpo
 - **Estrutura de investigação:** apresente o mistério, depois a "testemunha" (uma camada de rocha, um isótopo, um fóssil, um âmbar) que respondeu a ele, e só então a conclusão cautelosa. Narre as pistas uma a uma ("The first clue is… The second clue is… The third clue comes from…").
+- **Hipótese errada seguida de virada**, quando existir de verdade na história da ciência: o que os pesquisadores pensaram primeiro (e por que era razoável), o detalhe que não batia, e o momento em que a explicação mudou ("At first, they assumed… But something was off. Then came the shock."). Nunca invente um erro que não aconteceu.
+- **Bloco "como os cientistas sabem"**: antes de entregar um número ou uma conclusão importante, pergunte e responda em palavras simples como eles chegaram lá ("How do scientists even figure out the size of an extinct animal from a handful of vertebrae?"). Termine o bloco dizendo o que esse método não consegue garantir.
 - **Linha do tempo clara**: diga onde estamos no tempo e quanto falta para a virada.
 - **Comparações físicas e cotidianas** para todo número grande (uma banheira quente, um forno, 100 metros de basalto sobre os Estados Unidos, humanos mais animais domesticados). Repita a comparação principal pelo menos duas vezes no roteiro.
 - **Analogia cotidiana** para todo mecanismo (fertilizante de fazenda que cria zonas mortas no oceano; correia transportadora para placas tectônicas).
@@ -71,7 +74,8 @@ Os roteiros de referência (Episódio Pluvial Carniano, o mundo após a Grande M
 - **Ironia seca, no máximo uma por capítulo**, em trecho descritivo e nunca em cima de ressalva científica. A graça vem depois do número, e o número vem antes. Nada de gíria, apelido engraçado ou voz de amigo contando fofoca.
 - **Mais de uma linha narrativa** (vários organismos, locais, grupos) quando a ciência sustentar, com desfechos diferentes: vencedores, perdedores e quem sumiu devagar.
 - **Ondas emocionais:** alterne espanto (um mundo estranho, uma sobrevivência improvável) e pavor (a escala da mortandade, o mecanismo). Nunca sustente um modo só.
-- **Transições com gancho** entre blocos ("But the rain was only the beginning."), sempre ligadas ao que acabou de ser dito.
+- **Transições com gancho** entre blocos ("But the rain was only the beginning.", "What kind of planet grew monsters like this?"), sempre ligadas ao que acabou de ser dito. Perguntas abertas no fim de um bloco puxam o próximo.
+- **Fecho reflexivo antes do CTA:** o último bloco de conteúdo termina com uma ideia curta sobre o que o caso mostra (por exemplo, como o clima define os limites do que a vida consegue), sem moral genérica.
 - **Não encha linguiça.** Cada trecho avança a história, traz informação nova ou aumenta a tensão.
 
 ### Ritmo e frases (narração, não leitura)
@@ -81,7 +85,7 @@ Não há limite fixo de palavras por frase. As referências alternam tamanhos, e
 - **Sujeito e verbo chegam cedo.** Evite empilhar várias orações subordinadas ou parênteses antes da oração principal.
 - **Nunca três frases longas seguidas** sem uma curta no meio.
 - **Termo técnico:** apresente o nome científico e explique em palavras simples logo em seguida, na mesma frase ou na próxima ("conodonts, small eel-like vertebrates known mostly from their tooth-like fossils").
-- **Voz de narrador de documentário, clara e direta:** abra frases com "And", "But" e "So" quando soar natural, use perguntas retóricas e repita uma ideia com variação para dar ênfase. Contrações são raras. Evite o tom de artigo acadêmico e também o tom de conversa de bar.
+- **Voz de narrador de documentário, clara e direta:** abra frases com "And", "But" e "So" quando soar natural, use expressões como "See,", "Here's the thing" e "Think about it this way" para introduzir uma explicação, use perguntas retóricas e repita uma ideia com variação para dar ênfase. Contrações são raras. Evite o tom de artigo acadêmico e também o tom de conversa de bar.
 
 ### Tom
 O tom do Darkest Era é o do **roteiro do Carniano**: sério, preciso, cinematográfico, com a curiosidade de uma investigação. Espanto e pavor vêm do detalhe específico e do ritmo, não do adjetivo solto. As ressalvas científicas são sempre sóbrias.
@@ -128,6 +132,7 @@ Quando todos os capítulos passarem, rode a **passada final** no roteiro montado
    - o viajante do tempo aparece de 2 a 3 vezes, e o endereçamento direto tem formulações diferentes entre si;
    - no máximo uma ironia seca por capítulo, nunca em cima de ressalva científica, sem gíria e sem substituir um dado;
    - a cena de abertura vem antes de qualquer panorama geral do mundo da época;
+   - existe um bloco "como os cientistas sabem" antes da conclusão principal, e, se a história da ciência tiver uma hipótese errada seguida de virada, ela foi contada (sem inventar);
    - o fechamento tem as quatro partes, na ordem, com o nome Darkest Era.
 7. **Varra o roteiro lendo em voz alta, mentalmente:** reescreva qualquer frase em que o sujeito e o verbo chegam tarde, em que há várias subordinadas empilhadas ou que força o narrador a reler. Confirme que não há três frases longas seguidas sem uma curta, e que as frases curtas de impacto aparecem depois dos números grandes e das viradas. Releia o parágrafo ao redor para garantir fluidez.
 8. Se algo falhar nos passos 5 a 7, corrija e rode a passada de novo até tudo passar.
