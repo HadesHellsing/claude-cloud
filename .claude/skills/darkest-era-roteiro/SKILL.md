@@ -126,6 +126,15 @@ O roteiro só é entregue depois de passar por esta etapa. Ela é separada da ve
 5. **Em reescritas ou revisões**, trate a lista de correções recebida como um checklist: confirme cada item, um por um, e diga no final o que foi feito em cada um. Um erro apontado antes **não pode voltar**; releia o texto procurando repetições dele.
 6. **Entregue a ficha de verificação na resposta** (fora do roteiro): uma tabela curta com as afirmações centrais (as que carregam o argumento, os números e as atribuições), a fonte (com link) e o status. Se uma fonte não pôde ser aberta e a informação veio de resumo de terceiros, diga isso.
 
+### Como verificar (ferramentas)
+Use o terminal (`curl` via Bash). A ferramenta de abrir páginas pode ser bloqueada pelo proxy do ambiente, enquanto o `curl` costuma funcionar. Em ordem de preferência:
+1. **Atribuição (autor, ano, revista, DOI):** Crossref. Exemplo: `curl -sS "https://api.crossref.org/works?query.bibliographic=<palavras+do+título>&rows=3&select=title,author,issued,container-title,DOI"`. Se retornar 429 (limite de requisições), espere o `retry-after` e tente de novo. O "polite pool" do Crossref pede um e-mail de contato no User-Agent: **só use um e-mail se o usuário autorizar**; sem isso, aguarde e repita.
+2. **Resumos e busca de literatura:** PubMed E-utilities (`https://eutils.ncbi.nlm.nih.gov/entrez/eutils/`) e a API do Europe PMC pelo domínio do EBI (`https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=...&format=json`). O site `europepmc.org` pode retornar 403, mas a API no EBI funciona.
+3. **Texto completo de artigos abertos:** PubMed Central (`pmc.ncbi.nlm.nih.gov`), Frontiers e revistas de acesso aberto, para conferir números e frases exatas.
+4. **OpenAlex** (`api.openalex.org`) como complemento. Se estiver limitada (429), espere ou use outra fonte.
+5. **Busca na web** apenas como último recurso: ela devolve resumos de terceiros, então afirmações confirmadas só por ela ficam como **parcial** ou **não confirmada**.
+Faça poucas requisições por vez, respeite os limites e **nunca envie dados pessoais do usuário** (e-mail, nome) em requisições sem ele pedir.
+
 ### Armadilhas conhecidas
 Erros que já apareceram e que a verificação deve procurar de propósito:
 - **Duração de domínio ou reinado de um grupo:** calcule a partir das datas. Os dinossauros, por exemplo, dominam do fim do Triássico ao fim do Cretáceo, cerca de 135 milhões de anos, e não "mais de 150".
