@@ -128,6 +128,14 @@ Os roteiros de referência combinam três coisas que o Darkest Era deve manter: 
 - **Analogia cotidiana** para todo mecanismo (fertilizante de fazenda que cria zonas mortas no oceano; correia transportadora para placas tectônicas).
 - **(Formato B) Imersão em segunda pessoa, com parcimônia.** O recurso do viajante do tempo ("if I dropped you there right now…") entra **de 2 a 3 vezes por roteiro**, nos momentos de maior pavor ou estranheza (o calor, o ar, o que tentaria te matar), sempre ligado a um dado real. Complemente com no máximo **2 ou 3 frases de endereçamento direto** nos pontos de escalada ("now, pay attention to this next part", "here is the strange part"), cada uma com formulação diferente.
 - **(Formato B) Ironia seca, no máximo uma por capítulo**, em trecho descritivo e nunca em cima de ressalva científica. A graça vem depois do número, e o número vem antes. Nada de gíria, apelido engraçado ou voz de amigo contando fofoca.
+- **Variedade de grupos e espécies, a serviço do argumento.** O mundo da época precisa ter textura: o espectador deve sentir quem mais vivia ali, quem competia, quem comia quem. Isso é um **mínimo**, não uma cota:
+  - **Temas de evento, época ou lugar:** pelo menos **4 grupos ou espécies relevantes**, cada um nomeado e explicado em uma frase, nos **primeiros 5 minutos**.
+  - **Temas centrados em um único animal:** pelo menos **2 ou 3 nomes ao redor dele** (presas, rivais, parentes).
+  - **Profundidade vale tanto quanto variedade.** Poucos animais bem aprofundados (características do corpo, evidência fóssil, o que comia, como vivia e o que é só inferência, comparação com um animal atual) **cumprem a regra**: seis espécies bem desenvolvidas são melhores que quinze citadas de passagem. A variedade nunca deve forçar superficialidade. Se o mínimo e a profundidade entrarem em conflito, escolha a profundidade, desde que o espectador ainda sinta quem mais vivia ali.
+  - **Não há máximo fixo.** Use a quantidade que o tema e o argumento pedirem. Para a pergunta "quem saiu da frente?", por exemplo, entram herbívoros **e também** os rivais carnívoros.
+  - **Grupos primeiro, gêneros e espécies depois**, quando a evidência precisar deles.
+  - **Coerência acima de tudo:** só entra o que muda o entendimento da cena ou da evidência. Nunca liste nomes só para encher. Se a variedade aumentar o capítulo além de 1200 palavras, corte repetições e recapitulações, nunca informação nova.
+- **Pontas soltas controladas.** Pode plantar **1 ou 2 promessas** que atravessam capítulos ("já chegamos lá", "isso vai voltar daqui a pouco") e deixar mistérios abertos que prendam o espectador. **Toda promessa precisa ser resolvida antes do fim do vídeo**, com exceção do gancho do próximo episódio e de um mistério genuinamente em aberto na ciência, dito como tal.
 - **Mais de uma linha narrativa** (vários organismos, locais, grupos) quando a ciência sustentar, com desfechos diferentes: vencedores, perdedores e quem sumiu devagar.
 - **Ondas emocionais:** alterne espanto (um mundo estranho, uma sobrevivência improvável) e pavor (a escala da mortandade, o mecanismo). Nunca sustente um modo só.
 - **Transições com gancho** entre blocos ("But the rain was only the beginning.", "What kind of planet grew monsters like this?"), sempre ligadas ao que acabou de ser dito. Perguntas abertas no fim de um bloco puxam o próximo.
@@ -188,7 +196,9 @@ Quando todos os capítulos passarem, rode a **passada final** no roteiro montado
    - pontos debatidos e hipóteses estão sinalizados como tal, e correlação não virou causa;
    - pelo menos uma "testemunha" física é narrada como evidência;
    - uma comparação de escala se repete;
-   - todo fio narrativo aberto num capítulo é fechado no mesmo capítulo;
+   - toda ponta solta ou promessa feita ("já chegamos lá") foi resolvida antes do fim do vídeo, salvo o gancho do próximo episódio e mistérios abertos na ciência, ditos como tais;
+   - a variedade de grupos e espécies atinge o **mínimo** do tipo de tema **ou**, se ficou abaixo, cada animal citado foi de fato aprofundado; nenhum nome entra só para encher;
+   - não há recapitulação nem repetição que apenas reafirme o que já foi dito (por exemplo, o mesmo dado citado duas vezes);
    - (Formato B) o viajante do tempo aparece de 2 a 3 vezes, o endereçamento direto tem formulações diferentes entre si e há no máximo uma ironia seca por capítulo;
    - (Formato A) a tese do gancho reaparece no fim de cada bloco principal, existe o bloco "e a natureza também", a virada final é sustentada por evidência e, em cada animal importante, o que é inferido está dito como inferido;
    - nos dois formatos, nenhuma piada em cima de ressalva científica e nenhum humor substituindo um dado;
