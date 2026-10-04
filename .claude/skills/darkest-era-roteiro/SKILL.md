@@ -131,6 +131,7 @@ Os roteiros de referência combinam três coisas que o Darkest Era deve manter: 
 - **Variedade de grupos e espécies, a serviço do argumento.** O mundo da época precisa ter textura: o espectador deve sentir quem mais vivia ali, quem competia, quem comia quem. Isso é um **mínimo**, não uma cota:
   - **Temas de evento, época ou lugar:** pelo menos **4 grupos ou espécies relevantes**, cada um nomeado e explicado em uma frase, nos **primeiros 5 minutos**.
   - **Temas centrados em um único animal:** pelo menos **2 ou 3 nomes ao redor dele** (presas, rivais, parentes).
+  - **Profundidade vale tanto quanto variedade.** Poucos animais bem aprofundados (características do corpo, evidência fóssil, o que comia, como vivia e o que é só inferência, comparação com um animal atual) **cumprem a regra**: seis espécies bem desenvolvidas são melhores que quinze citadas de passagem. A variedade nunca deve forçar superficialidade. Se o mínimo e a profundidade entrarem em conflito, escolha a profundidade, desde que o espectador ainda sinta quem mais vivia ali.
   - **Não há máximo fixo.** Use a quantidade que o tema e o argumento pedirem. Para a pergunta "quem saiu da frente?", por exemplo, entram herbívoros **e também** os rivais carnívoros.
   - **Grupos primeiro, gêneros e espécies depois**, quando a evidência precisar deles.
   - **Coerência acima de tudo:** só entra o que muda o entendimento da cena ou da evidência. Nunca liste nomes só para encher. Se a variedade aumentar o capítulo além de 1200 palavras, corte repetições e recapitulações, nunca informação nova.
@@ -196,7 +197,7 @@ Quando todos os capítulos passarem, rode a **passada final** no roteiro montado
    - pelo menos uma "testemunha" física é narrada como evidência;
    - uma comparação de escala se repete;
    - toda ponta solta ou promessa feita ("já chegamos lá") foi resolvida antes do fim do vídeo, salvo o gancho do próximo episódio e mistérios abertos na ciência, ditos como tais;
-   - a variedade de grupos e espécies atinge o **mínimo** do tipo de tema e não tem nomes jogados sem função, e nenhum nome entra só para encher;
+   - a variedade de grupos e espécies atinge o **mínimo** do tipo de tema **ou**, se ficou abaixo, cada animal citado foi de fato aprofundado; nenhum nome entra só para encher;
    - não há recapitulação nem repetição que apenas reafirme o que já foi dito (por exemplo, o mesmo dado citado duas vezes);
    - (Formato B) o viajante do tempo aparece de 2 a 3 vezes, o endereçamento direto tem formulações diferentes entre si e há no máximo uma ironia seca por capítulo;
    - (Formato A) a tese do gancho reaparece no fim de cada bloco principal, existe o bloco "e a natureza também", a virada final é sustentada por evidência e, em cada animal importante, o que é inferido está dito como inferido;
