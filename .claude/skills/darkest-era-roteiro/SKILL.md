@@ -1,11 +1,18 @@
 ---
 name: darkest-era-roteiro
-description: Escreve roteiros narrados em inglês, em 3 capítulos de 1000 a 1200 palavras cada (cerca de 21 a 24 minutos), para o canal Darkest Era — documentário de pré-história com foco em dinossauros, mundos hostis, predadores e extinções (do Permiano ao Pleistoceno). Tem dois formatos: "pior lugar ou época" (catálogo de perigos) e "investigação" (mistério resolvido por evidência). Pesquisa a literatura científica antes de escrever, separa fato de hipótese e entrega texto narrado puro, sem metadados. Usar quando o usuário pedir um roteiro ou vídeo para o Darkest Era, ou um roteiro documental sobre dinossauros, extinções ou eras pré-históricas.
+description: Escreve roteiros narrados, em português do Brasil por padrão (com versão em inglês sob pedido), em 3 capítulos de 1000 a 1200 palavras cada (cerca de 21 a 24 minutos), para o canal Darkest Era — documentário de pré-história com foco em dinossauros, mundos hostis, predadores e extinções (do Permiano ao Pleistoceno). Tem dois formatos: "pior lugar ou época" (catálogo de perigos) e "investigação" (mistério resolvido por evidência). Pesquisa a literatura científica antes de escrever, separa fato de hipótese e entrega texto narrado puro, sem metadados. Usar quando o usuário pedir um roteiro ou vídeo para o Darkest Era, ou um roteiro documental sobre dinossauros, extinções ou eras pré-históricas.
 ---
 
 Você vai escrever roteiros para o canal **Darkest Era**: documentário narrado sobre os mundos mais hostis e os capítulos mais sombrios da pré-história, com os dinossauros (e répteis mesozoicos) como principal gancho visual, e outras eras (do Permiano ao Pleistoceno, incluindo os primeiros humanos) usadas para variar a escala de tempo e o tipo de perigo.
 
-O roteiro é sempre em **inglês**, independente do idioma da conversa. As instruções desta skill estão em português.
+## Idioma
+
+- **O roteiro é escrito primeiro em português do Brasil.** A versão em inglês é uma segunda etapa, feita quando o usuário pedir ("traduza", "versão em inglês"). Se o usuário pedir inglês desde o início, escreva em inglês.
+- Os exemplos em inglês desta skill (frases de gancho, transições, expressões de voz) são **ilustrativos**. No português, use equivalentes naturais, nunca tradução palavra por palavra. Ex.: "Here's the thing" vira "o detalhe é este" ou "a questão é a seguinte", não uma tradução literal.
+- Português: use unidades métricas (m, km, kg, °C) e comparações que o público brasileiro entenda de imediato (campo de futebol, ônibus, quadra, caminhão). Evite comparações muito regionais, para que a tradução depois continue natural.
+- Nomes científicos ficam em latim, sem alteração. O nome do canal, **Darkest Era**, não se traduz.
+- **Tradução para o inglês:** parta do roteiro em português já aprovado. Mantenha estrutura, números, faixas de estimativa e ressalvas científicas idênticos. Adapte piadas, comparações e expressões para o inglês, em vez de traduzir literalmente. **Refaça a contagem de palavras:** cada capítulo em inglês também deve ficar entre 1000 e 1200 palavras. Entregue a versão em inglês em um arquivo separado do português.
+- A regra de 1000 a 1200 palavras vale para o idioma em que o capítulo está escrito. O português costuma precisar de mais palavras que o inglês para o mesmo conteúdo, então a duração em português fica um pouco acima de 21 a 24 minutos. Isso é esperado.
 
 ---
 
@@ -15,7 +22,7 @@ O roteiro é sempre em **inglês**, independente do idioma da conversa. As instr
 2. **Escolher o formato** (ver seção "Formatos"): A (pior lugar ou época) ou B (investigação). Diga na resposta qual escolheu.
 3. **Pesquisar antes de escrever.** Use busca na web para levantar a literatura científica do tema. Priorize, nesta ordem: revisões e artigos de consenso, análises estatísticas de grandes bases de dados, modelos validados, estudos de campo e fósseis, e só depois divulgação. Ensaios clínicos e meta-análises médicas não existem em paleontologia; não finja que existem. Veja a seção "Integridade científica".
 4. **Fato de abertura extraído.** Identifique o dado mais extremo e verificável do tema (o maior, o mais quente, o mais rápido, o único). Ele ancora a abertura e o título, nascidos da mesma pesquisa.
-5. **Idioma.** Todo o texto narrado em inglês.
+5. **Idioma.** Português do Brasil por padrão; inglês só sob pedido ou na etapa de tradução (ver seção "Idioma").
 6. **Saída.** Texto narrado puro (ver "Formato de saída").
 7. **Os 3 capítulos de uma vez**, sem pausar para aprovação.
 8. **Verificação automática** (ver seção própria), sem perguntar nada ao usuário.
