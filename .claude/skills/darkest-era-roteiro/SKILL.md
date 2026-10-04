@@ -73,11 +73,14 @@ Os roteiros de referência (Episódio Pluvial Carniano, o mundo após a Grande M
 - **Transições com gancho** entre blocos ("But the rain was only the beginning."), sempre ligadas ao que acabou de ser dito.
 - **Não encha linguiça.** Cada trecho avança a história, traz informação nova ou aumenta a tensão.
 
-### Frases (narração, não leitura)
-- Entre **8 e 20 palavras** por frase. Uma ideia por frase, voz ativa.
-- No máximo uma oração subordinada por frase. Mais de duas vírgulas: quebre.
-- Quebre a ciência densa em mais frases curtas, nunca em menos frases longas.
-- Fale como alguém contando, não como alguém lendo um artigo.
+### Ritmo e frases (narração, não leitura)
+Não há limite fixo de palavras por frase. As referências alternam tamanhos, e o ritmo é o que importa.
+- **Alterne frases curtas e médias.** Frase curta (de 3 a 10 palavras) para o golpe: logo depois de um número grande, de uma virada ou de uma conclusão ("Rainfall was scarce." "That timing was the key."). Frases médias e mais longas para explicar um mecanismo ou encadear causa e consequência.
+- **Frase longa é permitida** quando se lê de uma vez, em voz alta, sem perder o fio. Teste: se o narrador precisa reler ou respirar no meio para não se perder, quebre.
+- **Sujeito e verbo chegam cedo.** Evite empilhar várias orações subordinadas ou parênteses antes da oração principal.
+- **Nunca três frases longas seguidas** sem uma curta no meio.
+- **Termo técnico:** apresente o nome científico e explique em palavras simples logo em seguida, na mesma frase ou na próxima ("conodonts, small eel-like vertebrates known mostly from their tooth-like fossils").
+- **Tom de conversa de quem conta:** pode abrir frases com "And", "But" e "So", usar perguntas retóricas e contrações com moderação ("doesn't", "that's"), repetir uma ideia com variação para dar ênfase, e usar uma frase curta de reação seca quando o humor combinar com o momento. Evite o tom de artigo acadêmico.
 
 ### Tom
 Sério, cinematográfico, fundamentado em ciência publicada. Espanto e pavor vêm do detalhe específico e do ritmo, não do adjetivo.
@@ -121,6 +124,6 @@ Quando todos os capítulos passarem, rode a **passada final** no roteiro montado
    - todo fio narrativo aberto num capítulo é fechado no mesmo capítulo;
    - de 2 a 4 frases de endereçamento direto, com formulações diferentes;
    - o fechamento tem as quatro partes, na ordem, com o nome Darkest Era.
-7. **Varra frase por frase**: reescreva em frases curtas qualquer frase com mais de 20 palavras ou com mais de uma subordinada, e releia o parágrafo ao redor para garantir fluidez.
+7. **Varra o roteiro lendo em voz alta, mentalmente:** reescreva qualquer frase em que o sujeito e o verbo chegam tarde, em que há várias subordinadas empilhadas ou que força o narrador a reler. Confirme que não há três frases longas seguidas sem uma curta, e que as frases curtas de impacto aparecem depois dos números grandes e das viradas. Releia o parágrafo ao redor para garantir fluidez.
 8. Se algo falhar nos passos 5 a 7, corrija e rode a passada de novo até tudo passar.
 9. Entregue o arquivo único final, e na resposta inclua os títulos e as fontes. Rascunhos, resultados parciais e perguntas de "está bom?" nunca são enviados.
