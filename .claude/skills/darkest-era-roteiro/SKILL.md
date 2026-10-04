@@ -1,6 +1,6 @@
 ---
 name: darkest-era-roteiro
-description: Escreve roteiros narrados em inglês, em capítulos de 1000 a 1200 palavras (tipicamente 2 a 3, para 16-24 minutos), para o canal Darkest Era — documentário de tempo geológico profundo com foco em dinossauros e nos capítulos mais sombrios da história da Terra (extinções, catástrofes, mundos hostis). Pesquisa a literatura científica antes de escrever, separa fato de hipótese e entrega texto narrado puro, sem metadados. Usar quando o usuário pedir um roteiro ou vídeo para o Darkest Era, ou um roteiro documental sobre dinossauros, extinções ou eras pré-históricas.
+description: Escreve roteiros narrados em inglês, em 3 capítulos de 1000 a 1200 palavras cada (cerca de 21 a 24 minutos), para o canal Darkest Era — documentário de tempo geológico profundo com foco em dinossauros e nos capítulos mais sombrios da história da Terra (extinções, catástrofes, mundos hostis). Pesquisa a literatura científica antes de escrever, separa fato de hipótese e entrega texto narrado puro, sem metadados. Usar quando o usuário pedir um roteiro ou vídeo para o Darkest Era, ou um roteiro documental sobre dinossauros, extinções ou eras pré-históricas.
 ---
 
 Você vai escrever roteiros para o canal **Darkest Era**: documentário narrado sobre os períodos mais hostis e catastróficos da história profunda da Terra, com os dinossauros (e répteis mesozoicos) como principal gancho visual, e eventos anteriores aos dinossauros usados em menor proporção para variar a escala de tempo.
@@ -11,19 +11,19 @@ O roteiro é sempre em **inglês**, independente do idioma da conversa. As instr
 
 ## EXECUTAR ANTES DE QUALQUER AÇÃO
 
-1. **Tema recebido?** Se o usuário não especificou o evento ou período, pergunte antes de escrever, oferecendo 3 a 4 opções (ex.: extinção Permo-Triássica e o mundo logo depois; Episódio Pluvial Carniano e a ascensão dos dinossauros; extinção Triássico-Jurássico; Chicxulub e o fim do Cretáceo; anoxia oceânica do Cretáceo). Se o usuário informou duração desejada, use-a; se não, assuma 16 a 24 minutos.
+1. **Tema recebido?** Se o usuário não especificou o evento ou período, pergunte antes de escrever, oferecendo 3 a 4 opções (ex.: extinção Permo-Triássica e o mundo logo depois; Episódio Pluvial Carniano e a ascensão dos dinossauros; extinção Triássico-Jurássico; Chicxulub e o fim do Cretáceo; anoxia oceânica do Cretáceo). O padrão é **sempre 3 capítulos**. Só use outro número se o usuário pedir explicitamente.
 2. **Pesquisar antes de escrever.** Use busca na web para levantar a literatura científica do tema. Priorize, nesta ordem: revisões e artigos de consenso, análises estatísticas de grandes bases de dados, modelos validados, estudos de campo e fósseis, e só depois divulgação. Ensaios clínicos e meta-análises médicas não existem em paleontologia; não finja que existem. Veja a seção "Integridade científica".
 3. **Fato de abertura extraído.** Identifique o dado mais extremo e verificável do tema (o maior, o mais quente, o mais rápido, o único). Ele ancora a abertura e o título, nascidos da mesma pesquisa.
 4. **Idioma.** Todo o texto narrado em inglês.
 5. **Formato.** Texto narrado puro (ver "Formato de saída").
-6. **Todos os capítulos de uma vez**, sem pausar para aprovação.
+6. **Os 3 capítulos de uma vez**, sem pausar para aprovação.
 7. **Verificação automática** (ver seção própria), sem perguntar nada ao usuário.
 
 ---
 
 ## Formato de saída
 
-- Capítulos de **1000 a 1200 palavras** cada, quantos forem necessários para 16 a 24 minutos de narração (tipicamente 2 a 3).
+- **3 capítulos** de **1000 a 1200 palavras** cada (cerca de 21 a 24 minutos de narração). Divida a história em três blocos que se sustentem: o primeiro apresenta a cena, o mistério e o mundo; o segundo traz a evidência e o mecanismo; o terceiro traz as consequências, o desfecho e o fechamento (CTA). Outro número de capítulos só se o usuário pedir.
 - **Texto narrado puro. Nenhum metadado dentro do roteiro:** sem título, sem "Chapter 1", sem timestamps, sem colchetes de música, de som ou de direção de cena, sem notas de B-roll, sem bullet points, sem cabeçalhos, sem indicação de patrocinador.
 - Sem resumo antes de começar. A primeira frase do roteiro é a primeira coisa que o narrador diz.
 - Entrega: **um único arquivo** com todos os capítulos montados em ordem, como texto contínuo. Nunca um arquivo por capítulo.
