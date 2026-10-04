@@ -47,7 +47,7 @@ Depois do roteiro, na resposta, liste as fontes usadas (autor, ano, periódico, 
 6. **Admita as limitações das provas** na hora em que a prova aparece (fósseis raros, pegadas que mostram só um local, modelos que dependem de suposições).
 7. **Nada de espécie, mundo ou cenário inventado.** Sem ficção especulativa. Se o roteiro precisar de um "e se", ele é anunciado como tal e sustentado por pesquisa.
 8. **Cenas reconstruídas** (o que um animal "faria" ou "sentiria") só aparecem quando a pesquisa sustenta o comportamento. Caso contrário, o roteiro diz "may have" ou "could have".
-9. **Não use hipérboles sem número** ("worst day ever", "unimaginable") para substituir um dado.
+9. **Hipérbole não substitui dado.** Frases como "worst day ever" ou "unimaginable" só entram como humor quando há um número ou fato real no mesmo trecho que as sustente.
 10. **Sem patrocínio, sem plugs, sem venda.** O roteiro não contém anúncios.
 
 ---
@@ -67,7 +67,8 @@ Os roteiros de referência (Episódio Pluvial Carniano, o mundo após a Grande M
 - **Linha do tempo clara**: diga onde estamos no tempo e quanto falta para a virada.
 - **Comparações físicas e cotidianas** para todo número grande (uma banheira quente, um forno, 100 metros de basalto sobre os Estados Unidos, humanos mais animais domesticados). Repita a comparação principal pelo menos duas vezes no roteiro.
 - **Analogia cotidiana** para todo mecanismo (fertilizante de fazenda que cria zonas mortas no oceano; correia transportadora para placas tectônicas).
-- **Segunda pessoa e humor seco**, com moderação: de 2 a 4 frases de endereçamento direto por roteiro ("if I dropped you there…", "now, pay attention to this next part"), cada uma com formulação diferente e ligada ao momento. Humor leve e no tom, nunca cômico a ponto de tirar a seriedade do tema.
+- **Segunda pessoa e humor, como no roteiro do Induano.** Use o recurso do **viajante do tempo** ("if I teleported you there right now…", "if I dropped you into one of these areas…") como fio condutor para mostrar como seria estar naquele mundo: o calor, o ar, o que você veria primeiro, o que tentaria te matar. Pode aparecer várias vezes ao longo do roteiro, sempre ligado a um dado real. Complemente com endereçamento direto nos pontos de escalada ("now, pay attention to this next part", "here is the strange part"), cada um com formulação diferente das outras.
+- **Humor de narrador:** comparações do dia a dia ("the same temperature health organizations say never to exceed in a hot tub"), reações secas e curtas, uma piada leve quando o assunto permite. A graça nunca substitui o dado: a piada vem depois do número, e o número vem antes.
 - **Mais de uma linha narrativa** (vários organismos, locais, grupos) quando a ciência sustentar, com desfechos diferentes: vencedores, perdedores e quem sumiu devagar.
 - **Ondas emocionais:** alterne espanto (um mundo estranho, uma sobrevivência improvável) e pavor (a escala da mortandade, o mecanismo). Nunca sustente um modo só.
 - **Transições com gancho** entre blocos ("But the rain was only the beginning."), sempre ligadas ao que acabou de ser dito.
@@ -80,10 +81,14 @@ Não há limite fixo de palavras por frase. As referências alternam tamanhos, e
 - **Sujeito e verbo chegam cedo.** Evite empilhar várias orações subordinadas ou parênteses antes da oração principal.
 - **Nunca três frases longas seguidas** sem uma curta no meio.
 - **Termo técnico:** apresente o nome científico e explique em palavras simples logo em seguida, na mesma frase ou na próxima ("conodonts, small eel-like vertebrates known mostly from their tooth-like fossils").
-- **Tom de conversa de quem conta:** pode abrir frases com "And", "But" e "So", usar perguntas retóricas e contrações com moderação ("doesn't", "that's"), repetir uma ideia com variação para dar ênfase, e usar uma frase curta de reação seca quando o humor combinar com o momento. Evite o tom de artigo acadêmico.
+- **Tom de conversa de quem conta:** abra frases com "And", "But" e "So" quando soar natural, use perguntas retóricas e contrações ("doesn't", "that's"), repita uma ideia com variação para dar ênfase e use uma frase curta de reação seca quando o humor combinar com o momento. Evite o tom de artigo acadêmico.
 
 ### Tom
-Sério, cinematográfico, fundamentado em ciência publicada. Espanto e pavor vêm do detalhe específico e do ritmo, não do adjetivo.
+O Darkest Era soa como a mistura dos dois primeiros roteiros de referência:
+- **Do Carniano:** a seriedade de investigação. Quando o roteiro apresenta evidência, mecanismo ou debate, o tom é sóbrio, preciso e cinematográfico, e as ressalvas vêm sem humor.
+- **Do Induano:** a voz de quem conta a história para um amigo, com humor, ironia leve, exageros divertidos e o espectador colocado dentro da cena. Esse tom domina os trechos de descrição do mundo, dos animais e dos perigos.
+
+Alterne os dois: entra a conversa e o humor para descrever e dar ritmo, entra a seriedade quando se explica como a ciência sabe o que sabe. Hipérbole de humor ("a warm hug" para comparar com o fim dos dinossauros) é permitida só quando apoiada por um fato real do mesmo trecho. Espanto e pavor continuam vindo do detalhe específico, não do adjetivo solto.
 
 ---
 
@@ -122,7 +127,8 @@ Quando todos os capítulos passarem, rode a **passada final** no roteiro montado
    - pelo menos uma "testemunha" física é narrada como evidência;
    - uma comparação de escala se repete;
    - todo fio narrativo aberto num capítulo é fechado no mesmo capítulo;
-   - de 2 a 4 frases de endereçamento direto, com formulações diferentes;
+   - o recurso do viajante do tempo aparece, e o endereçamento direto nos pontos de escalada tem formulações diferentes entre si;
+   - humor presente nos trechos descritivos, sem piada em cima de ressalva científica e sem substituir um dado;
    - o fechamento tem as quatro partes, na ordem, com o nome Darkest Era.
 7. **Varra o roteiro lendo em voz alta, mentalmente:** reescreva qualquer frase em que o sujeito e o verbo chegam tarde, em que há várias subordinadas empilhadas ou que força o narrador a reler. Confirme que não há três frases longas seguidas sem uma curta, e que as frases curtas de impacto aparecem depois dos números grandes e das viradas. Releia o parágrafo ao redor para garantir fluidez.
 8. Se algo falhar nos passos 5 a 7, corrija e rode a passada de novo até tudo passar.
