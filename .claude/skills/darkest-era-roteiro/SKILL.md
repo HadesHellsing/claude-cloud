@@ -1,9 +1,9 @@
 ---
 name: darkest-era-roteiro
-description: Escreve roteiros narrados em inglês, em 3 capítulos de 1000 a 1200 palavras cada (cerca de 21 a 24 minutos), para o canal Darkest Era — documentário de tempo geológico profundo com foco em dinossauros e nos capítulos mais sombrios da história da Terra (extinções, catástrofes, mundos hostis). Pesquisa a literatura científica antes de escrever, separa fato de hipótese e entrega texto narrado puro, sem metadados. Usar quando o usuário pedir um roteiro ou vídeo para o Darkest Era, ou um roteiro documental sobre dinossauros, extinções ou eras pré-históricas.
+description: Escreve roteiros narrados em inglês, em 3 capítulos de 1000 a 1200 palavras cada (cerca de 21 a 24 minutos), para o canal Darkest Era — documentário de pré-história com foco em dinossauros, mundos hostis, predadores e extinções (do Permiano ao Pleistoceno). Tem dois formatos: "pior lugar ou época" (catálogo de perigos) e "investigação" (mistério resolvido por evidência). Pesquisa a literatura científica antes de escrever, separa fato de hipótese e entrega texto narrado puro, sem metadados. Usar quando o usuário pedir um roteiro ou vídeo para o Darkest Era, ou um roteiro documental sobre dinossauros, extinções ou eras pré-históricas.
 ---
 
-Você vai escrever roteiros para o canal **Darkest Era**: documentário narrado sobre os períodos mais hostis e catastróficos da história profunda da Terra, com os dinossauros (e répteis mesozoicos) como principal gancho visual, e eventos anteriores aos dinossauros usados em menor proporção para variar a escala de tempo.
+Você vai escrever roteiros para o canal **Darkest Era**: documentário narrado sobre os mundos mais hostis e os capítulos mais sombrios da pré-história, com os dinossauros (e répteis mesozoicos) como principal gancho visual, e outras eras (do Permiano ao Pleistoceno, incluindo os primeiros humanos) usadas para variar a escala de tempo e o tipo de perigo.
 
 O roteiro é sempre em **inglês**, independente do idioma da conversa. As instruções desta skill estão em português.
 
@@ -12,12 +12,13 @@ O roteiro é sempre em **inglês**, independente do idioma da conversa. As instr
 ## EXECUTAR ANTES DE QUALQUER AÇÃO
 
 1. **Tema recebido?** Se o usuário não especificou o evento ou período, pergunte antes de escrever, oferecendo 3 a 4 opções (ex.: extinção Permo-Triássica e o mundo logo depois; Episódio Pluvial Carniano e a ascensão dos dinossauros; extinção Triássico-Jurássico; Chicxulub e o fim do Cretáceo; anoxia oceânica do Cretáceo). O padrão é **sempre 3 capítulos**. Só use outro número se o usuário pedir explicitamente.
-2. **Pesquisar antes de escrever.** Use busca na web para levantar a literatura científica do tema. Priorize, nesta ordem: revisões e artigos de consenso, análises estatísticas de grandes bases de dados, modelos validados, estudos de campo e fósseis, e só depois divulgação. Ensaios clínicos e meta-análises médicas não existem em paleontologia; não finja que existem. Veja a seção "Integridade científica".
-3. **Fato de abertura extraído.** Identifique o dado mais extremo e verificável do tema (o maior, o mais quente, o mais rápido, o único). Ele ancora a abertura e o título, nascidos da mesma pesquisa.
-4. **Idioma.** Todo o texto narrado em inglês.
-5. **Formato.** Texto narrado puro (ver "Formato de saída").
-6. **Os 3 capítulos de uma vez**, sem pausar para aprovação.
-7. **Verificação automática** (ver seção própria), sem perguntar nada ao usuário.
+2. **Escolher o formato** (ver seção "Formatos"): A (pior lugar ou época) ou B (investigação). Diga na resposta qual escolheu.
+3. **Pesquisar antes de escrever.** Use busca na web para levantar a literatura científica do tema. Priorize, nesta ordem: revisões e artigos de consenso, análises estatísticas de grandes bases de dados, modelos validados, estudos de campo e fósseis, e só depois divulgação. Ensaios clínicos e meta-análises médicas não existem em paleontologia; não finja que existem. Veja a seção "Integridade científica".
+4. **Fato de abertura extraído.** Identifique o dado mais extremo e verificável do tema (o maior, o mais quente, o mais rápido, o único). Ele ancora a abertura e o título, nascidos da mesma pesquisa.
+5. **Idioma.** Todo o texto narrado em inglês.
+6. **Saída.** Texto narrado puro (ver "Formato de saída").
+7. **Os 3 capítulos de uma vez**, sem pausar para aprovação.
+8. **Verificação automática** (ver seção própria), sem perguntar nada ao usuário.
 
 ---
 
@@ -30,7 +31,15 @@ O roteiro é sempre em **inglês**, independente do idioma da conversa. As instr
 - Fora do arquivo, na resposta ao usuário, entregue separadamente: **2 a 3 opções de título** e a **lista de fontes** (ver abaixo). Isso nunca entra no texto narrado.
 
 ### Título
-Gere de 2 a 3 opções a partir do fato de abertura: afirmação concreta e específica, ancorada numa comparação que o espectador já entende. Nunca prometa um número ou superlativo maior do que a ciência sustenta.
+Gere de 2 a 3 opções a partir do fato de abertura. Os títulos de maior audiência de referência seguem estas fórmulas:
+- **Superlativo + medo:** "The Worst Place/Time To …", "… Was Pure Nightmare Fuel", "… Was Thalassophobia On Steroids".
+- **Exceção única:** "The Only Time In History That X Was Safer Than Y".
+- **Reenquadre do lugar:** "When [Place] Was [Surprise]" ("When Antarctica Was A Jungle").
+- **Afirmação contraintuitiva:** "X Wasn't Y", "Scientists Got X Horribly Wrong".
+- **Humano diante da megafauna:** "Extinct Animals The [People] Saw".
+- **Número concreto** quando houver lastro ("… For 2,000,000 Years").
+
+Regras: afirmação concreta e específica, ancorada numa comparação que o espectador já entende. Superlativo ("worst", "only", "largest") só se a pesquisa sustentar; se for debatido, use uma formulação defensável. Nunca prometa um número maior do que a ciência sustenta.
 
 ### Fontes
 Depois do roteiro, na resposta, liste as fontes usadas (autor, ano, periódico, com link quando houver) e marque cada afirmação importante como **sólida**, **debatida** ou **hipótese**. Se uma fonte não pôde ser aberta e a informação veio de um resumo de terceiros, diga isso.
@@ -52,9 +61,49 @@ Depois do roteiro, na resposta, liste as fontes usadas (autor, ano, periódico, 
 
 ---
 
+## Formatos
+
+Antes de escrever, escolha o formato pelo tema. O usuário pode forçar um.
+- **Formato A — "Pior lugar ou época".** Para temas que são um **lugar, uma época ou um ecossistema** (um mar, um continente, um período) onde cabe um catálogo de animais e perigos. É o formato dos três vídeos de maior audiência de referência. É o padrão para esses temas.
+- **Formato B — "Investigação".** Para temas que são um **evento ou mistério** (uma extinção, uma mudança climática, uma descoberta), conduzidos por evidência. É o formato dos roteiros do Carniano e do Titanoboa. É o padrão para esses temas.
+- Se o tema servir aos dois, use o A e avise que o B está disponível.
+
+**Os formatos são padrões de estrutura e de tom, não texto para copiar.** Nunca reproduza frases, sequências de exemplos ou piadas dos roteiros de referência.
+
+### Formato A — estrutura
+
+**1. Tese no gancho.** Abra com uma afirmação extrema que o vídeo vai provar. Use uma destas três entradas, a que combinar com o tema:
+- **Contraste com o presente:** comece por algo que o espectador já conhece e teme hoje, com 2 ou 3 dados reais, e vire ("o passado era muito pior").
+- **Regra com exceção:** uma regra aparente da natureza e a única exceção a ela.
+- **Ranking com revelação:** cite uma fonte real (documentário, estudo, lista) que classifica e revele o vencedor com o nome ou apelido do lugar. Só se a fonte existir e puder ser citada.
+
+**2. Janela de tempo e lugar.** Em seguida, diga quando e onde estamos (datas, geografia, clima), com comparações que o espectador visualize (uma jacuzzi, um oceano duas vezes maior que o Pacífico). Se humanos estiverem presentes na época, diga quando chegaram.
+
+**3. Catálogo por grupos.** Divida o vídeo em blocos por grupo de animais (por exemplo, predadores terrestres, répteis marinhos, herbívoros, anfíbios, aves, céu), sem títulos no texto. Em cada animal importante, nesta ordem aproximada:
+- nome científico, com explicação simples logo em seguida;
+- tamanho **em faixa**, comparado a um animal atual;
+- arma ou defesa (dentes, mordida, armadura), com dado medido quando houver;
+- como vivia ou caçava, **dizendo o que é evidência e o que é inferido**;
+- o que comia, com a evidência (conteúdo estomacal, marcas de mordida, coprólitos);
+- uma frase de segunda pessoa sobre o que aconteceria com você ali.
+Alterne predadores supremos com animais menos ameaçadores ou herbívoros perigosos, para quebrar a expectativa.
+
+**4. Retorno da tese.** No fim de cada bloco principal, uma frase curta reconecta o catálogo à tese do gancho.
+
+**5. "E a natureza também."** Um bloco mostra que os animais não eram o único perigo (calor, ar, fogo, seca, falta de oxigênio), sempre com dado e fonte.
+
+**6. Desfecho com virada.** Diga o que aconteceu com esse mundo (extinção, mudança climática, chegada dos humanos) e as causas que a ciência discute, sem tratar um estudo como consenso. A última virada reencaixa a tese (por exemplo, "até no pior momento, a água ainda era mais segura", ou "talvez o animal mais perigoso fosse o ser humano"). Só use virada que a evidência sustente. Se o ponto for debatido, o roteiro diz isso.
+
+**Divisão em 3 capítulos:** o 1º traz tese, janela de tempo e lugar e o primeiro grupo de predadores; o 2º traz os grupos principais; o 3º traz os demais grupos, o bloco "e a natureza também", o desfecho e o CTA.
+
+### Formato B — estrutura
+Investigação de um mistério, com as regras de "Corpo" abaixo. Divisão em 3 capítulos: o 1º traz cena, mistério e mundo; o 2º traz evidência e mecanismo; o 3º traz consequências, desfecho e CTA.
+
+---
+
 ## Estilo (baseado nos roteiros de referência)
 
-Os roteiros de referência (Episódio Pluvial Carniano, o mundo após a Grande Mortandade e o ecossistema especulativo) combinam três coisas que o Darkest Era deve manter: **ciência rastreável, ritmo de narração e gancho forte.** O **modelo principal de tom e estrutura é o roteiro do Carniano**, junto com o roteiro do Titanoboa, do mesmo canal; o do Induano contribui só com poucos recursos de imersão (ver "Tom").
+Os roteiros de referência combinam três coisas que o Darkest Era deve manter: **ciência rastreável, ritmo de narração e gancho forte.** O **Formato A** se apoia nos três vídeos de maior audiência ("água mais segura que a terra", o mar pré-histórico do Cretáceo e a Austrália pré-histórica). O **Formato B** se apoia nos roteiros do Carniano e do Titanoboa. Os recursos abaixo valem para os dois, salvo indicação.
 
 ### Abertura (hook)
 - Comece ancorado em **uma data e uma cena concreta**: um lugar, um detalhe físico pequeno, um som, um animal ("Around 233 million years ago…"), ou em um **fato extremo e verificável**. A cena vem **antes** de qualquer panorama geral do mundo da época. Nunca abra em "a história de…", em resumo ou com uma descrição geral do planeta.
@@ -64,14 +113,14 @@ Os roteiros de referência (Episódio Pluvial Carniano, o mundo após a Grande M
 - Prometa só o que o vídeo entrega.
 
 ### Corpo
-- **Estrutura de investigação:** apresente o mistério, depois a "testemunha" (uma camada de rocha, um isótopo, um fóssil, um âmbar) que respondeu a ele, e só então a conclusão cautelosa. Narre as pistas uma a uma ("The first clue is… The second clue is… The third clue comes from…").
-- **Hipótese errada seguida de virada**, quando existir de verdade na história da ciência: o que os pesquisadores pensaram primeiro (e por que era razoável), o detalhe que não batia, e o momento em que a explicação mudou ("At first, they assumed… But something was off. Then came the shock."). Nunca invente um erro que não aconteceu.
-- **Bloco "como os cientistas sabem"**: antes de entregar um número ou uma conclusão importante, pergunte e responda em palavras simples como eles chegaram lá ("How do scientists even figure out the size of an extinct animal from a handful of vertebrae?"). Termine o bloco dizendo o que esse método não consegue garantir.
+- **(Formato B) Estrutura de investigação:** apresente o mistério, depois a "testemunha" (uma camada de rocha, um isótopo, um fóssil, um âmbar) que respondeu a ele, e só então a conclusão cautelosa. Narre as pistas uma a uma ("The first clue is… The second clue is… The third clue comes from…").
+- **(Formato B) Hipótese errada seguida de virada**, quando existir de verdade na história da ciência: o que os pesquisadores pensaram primeiro (e por que era razoável), o detalhe que não batia, e o momento em que a explicação mudou ("At first, they assumed… But something was off. Then came the shock."). Nunca invente um erro que não aconteceu.
+- **"Como os cientistas sabem"** (obrigatório no B, e no A sempre que um dado extremo ou inferido precisar de explicação): antes de entregar um número ou uma conclusão importante, pergunte e responda em palavras simples como eles chegaram lá ("How do scientists even figure out the size of an extinct animal from a handful of vertebrae?"). Termine o bloco dizendo o que esse método não consegue garantir.
 - **Linha do tempo clara**: diga onde estamos no tempo e quanto falta para a virada.
 - **Comparações físicas e cotidianas** para todo número grande (uma banheira quente, um forno, 100 metros de basalto sobre os Estados Unidos, humanos mais animais domesticados). Repita a comparação principal pelo menos duas vezes no roteiro.
 - **Analogia cotidiana** para todo mecanismo (fertilizante de fazenda que cria zonas mortas no oceano; correia transportadora para placas tectônicas).
-- **Imersão em segunda pessoa, com parcimônia.** O recurso do viajante do tempo ("if I dropped you there right now…") entra **de 2 a 3 vezes por roteiro**, nos momentos de maior pavor ou estranheza (o calor, o ar, o que tentaria te matar), sempre ligado a um dado real. Complemente com no máximo **2 ou 3 frases de endereçamento direto** nos pontos de escalada ("now, pay attention to this next part", "here is the strange part"), cada uma com formulação diferente.
-- **Ironia seca, no máximo uma por capítulo**, em trecho descritivo e nunca em cima de ressalva científica. A graça vem depois do número, e o número vem antes. Nada de gíria, apelido engraçado ou voz de amigo contando fofoca.
+- **(Formato B) Imersão em segunda pessoa, com parcimônia.** O recurso do viajante do tempo ("if I dropped you there right now…") entra **de 2 a 3 vezes por roteiro**, nos momentos de maior pavor ou estranheza (o calor, o ar, o que tentaria te matar), sempre ligado a um dado real. Complemente com no máximo **2 ou 3 frases de endereçamento direto** nos pontos de escalada ("now, pay attention to this next part", "here is the strange part"), cada uma com formulação diferente.
+- **(Formato B) Ironia seca, no máximo uma por capítulo**, em trecho descritivo e nunca em cima de ressalva científica. A graça vem depois do número, e o número vem antes. Nada de gíria, apelido engraçado ou voz de amigo contando fofoca.
 - **Mais de uma linha narrativa** (vários organismos, locais, grupos) quando a ciência sustentar, com desfechos diferentes: vencedores, perdedores e quem sumiu devagar.
 - **Ondas emocionais:** alterne espanto (um mundo estranho, uma sobrevivência improvável) e pavor (a escala da mortandade, o mecanismo). Nunca sustente um modo só.
 - **Transições com gancho** entre blocos ("But the rain was only the beginning.", "What kind of planet grew monsters like this?"), sempre ligadas ao que acabou de ser dito. Perguntas abertas no fim de um bloco puxam o próximo.
@@ -85,12 +134,16 @@ Não há limite fixo de palavras por frase. As referências alternam tamanhos, e
 - **Sujeito e verbo chegam cedo.** Evite empilhar várias orações subordinadas ou parênteses antes da oração principal.
 - **Nunca três frases longas seguidas** sem uma curta no meio.
 - **Termo técnico:** apresente o nome científico e explique em palavras simples logo em seguida, na mesma frase ou na próxima ("conodonts, small eel-like vertebrates known mostly from their tooth-like fossils").
-- **Voz de narrador de documentário, clara e direta:** abra frases com "And", "But" e "So" quando soar natural, use expressões como "See,", "Here's the thing" e "Think about it this way" para introduzir uma explicação, use perguntas retóricas e repita uma ideia com variação para dar ênfase. Contrações são raras. Evite o tom de artigo acadêmico e também o tom de conversa de bar.
+- **Voz de narrador de documentário, clara e direta:** abra frases com "And", "But" e "So" quando soar natural, use expressões como "See,", "Here's the thing" e "Think about it this way" para introduzir uma explicação, use perguntas retóricas e repita uma ideia com variação para dar ênfase. No Formato B, contrações são raras. No Formato A, contrações e coloquialismo são liberados. Nos dois, evite o tom de artigo acadêmico.
 
 ### Tom
-O tom do Darkest Era é o do **roteiro do Carniano**: sério, preciso, cinematográfico, com a curiosidade de uma investigação. Espanto e pavor vêm do detalhe específico e do ritmo, não do adjetivo solto. As ressalvas científicas são sempre sóbrias.
+**Formato B:** o do **roteiro do Carniano**: sério, preciso, cinematográfico, com a curiosidade de uma investigação. Espanto e pavor vêm do detalhe específico e do ritmo, não do adjetivo solto. As ressalvas científicas são sempre sóbrias. Do estilo mais solto entram só três recursos, em dose pequena: o viajante do tempo (2 a 3 vezes por roteiro), uma ironia seca por capítulo e comparações do dia a dia para números grandes.
 
-Do roteiro do Induano entram só três recursos, todos em dose pequena: o viajante do tempo (2 a 3 vezes por roteiro), uma ironia seca por capítulo e as comparações do dia a dia para números grandes. Humor nunca substitui um dado, e exagero só entra quando há um fato real no mesmo trecho que o sustente.
+**Formato A:** o tom dos três vídeos de maior audiência: **conversa direta com o espectador, humor e medo**.
+- Segunda pessoa em quase todos os blocos ("you'd only be attacked by three kinds", "the last animal you'd want to meet").
+- Humor de narrador: comparações engraçadas, apelidos para os animais, reações curtas ("talk about a bad place to live"), jogo com fobias que combina com o título (por exemplo, talassofobia).
+- Exagero de humor permitido quando há um fato real no mesmo trecho.
+- **Limites que valem sempre:** a graça vem depois do número e nunca o substitui; **ressalvas científicas, debates e dúvidas são ditos em tom sóbrio, sem piada**; nada de gíria pesada.
 
 ---
 
@@ -129,10 +182,12 @@ Quando todos os capítulos passarem, rode a **passada final** no roteiro montado
    - pelo menos uma "testemunha" física é narrada como evidência;
    - uma comparação de escala se repete;
    - todo fio narrativo aberto num capítulo é fechado no mesmo capítulo;
-   - o viajante do tempo aparece de 2 a 3 vezes, e o endereçamento direto tem formulações diferentes entre si;
-   - no máximo uma ironia seca por capítulo, nunca em cima de ressalva científica, sem gíria e sem substituir um dado;
-   - a cena de abertura vem antes de qualquer panorama geral do mundo da época;
-   - existe um bloco "como os cientistas sabem" antes da conclusão principal, e, se a história da ciência tiver uma hipótese errada seguida de virada, ela foi contada (sem inventar);
+   - (Formato B) o viajante do tempo aparece de 2 a 3 vezes, o endereçamento direto tem formulações diferentes entre si e há no máximo uma ironia seca por capítulo;
+   - (Formato A) a tese do gancho reaparece no fim de cada bloco principal, existe o bloco "e a natureza também", a virada final é sustentada por evidência e, em cada animal importante, o que é inferido está dito como inferido;
+   - nos dois formatos, nenhuma piada em cima de ressalva científica e nenhum humor substituindo um dado;
+   - nenhum extremo de estimativa (tamanho, peso, força de mordida) apresentado como fato único;
+   - (Formato B) a cena de abertura vem antes de qualquer panorama geral do mundo da época;
+   - (Formato B) existe um bloco "como os cientistas sabem" antes da conclusão principal e, se houve hipótese errada seguida de virada na história da ciência, ela foi contada (sem inventar);
    - o fechamento tem as quatro partes, na ordem, com o nome Darkest Era.
 7. **Varra o roteiro lendo em voz alta, mentalmente:** reescreva qualquer frase em que o sujeito e o verbo chegam tarde, em que há várias subordinadas empilhadas ou que força o narrador a reler. Confirme que não há três frases longas seguidas sem uma curta, e que as frases curtas de impacto aparecem depois dos números grandes e das viradas. Releia o parágrafo ao redor para garantir fluidez.
 8. Se algo falhar nos passos 5 a 7, corrija e rode a passada de novo até tudo passar.
