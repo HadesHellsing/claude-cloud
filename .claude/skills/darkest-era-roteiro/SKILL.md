@@ -46,7 +46,7 @@ Gere de 2 a 3 opções a partir do fato de abertura. Os títulos de maior audiê
 - **Humano diante da megafauna:** "Extinct Animals The [People] Saw".
 - **Número concreto** quando houver lastro ("… For 2,000,000 Years").
 
-Regras: afirmação concreta e específica, ancorada numa comparação que o espectador já entende. Superlativo ("worst", "only", "largest") só se a pesquisa sustentar; se for debatido, use uma formulação defensável. Nunca prometa um número maior do que a ciência sustenta.
+Regras: **o título não pode depender de um termo técnico que o público geral não conhece** (nome de idade geológica, de grupo ou de evento): traduza a ideia (por exemplo, "A chuva que durou 2 milhões de anos e entregou o mundo aos dinossauros" em vez de "Carniano: …"). Afirmação concreta e específica, ancorada numa comparação que o espectador já entende. Superlativo ("worst", "only", "largest") só se a pesquisa sustentar; se for debatido, use uma formulação defensável. Nunca prometa um número maior do que a ciência sustenta.
 
 ### Fontes
 Depois do roteiro, na resposta, liste as fontes usadas (autor, ano, periódico, com link quando houver) e marque cada afirmação importante como **sólida**, **debatida** ou **hipótese**. Se uma fonte não pôde ser aberta e a informação veio de um resumo de terceiros, diga isso.
@@ -194,6 +194,7 @@ Não há limite fixo de palavras por frase. As referências alternam tamanhos, e
 - **Nunca três frases longas seguidas** sem uma curta no meio.
 - **Sem pleonasmo nem frase redundante.** Evite construções como "É um X, e é um Y" quando o segundo termo já está contido no primeiro, e frases que só repetem a anterior com outras palavras. Cada frase acrescenta algo.
 - **Sem parágrafo de lista de nomes.** Quando vários animais forem citados em sequência, cada um traz uma característica própria (tamanho, hábito, onde viveu) ou é agrupado por função na cena. Nunca uma fileira de nomes só com o rótulo.
+- **Nome técnico desconhecido sempre explicado na primeira menção.** Nomes de idades geológicas (Carniano, Noriano), de eventos (Episódio Pluvial Carniano) e de grupos (rincossauros, crurotarsos) soam como nomes de animais ou de pessoas para quem não os conhece. Na primeira vez, diga **o que é** em poucas palavras, por exemplo "uma época chamada Carniano, parte do Triássico" ou "os rincossauros, répteis herbívoros de bico em forma de gancho". Depois disso, pode usar o nome, ou um apelido simples e consistente ("a grande chuva"), para o termo difícil não aparecer toda hora. Se o nome não é necessário ao argumento, prefira descrever a ideia.
 - **Termo técnico:** apresente o nome científico e explique em palavras simples logo em seguida, na mesma frase ou na próxima ("conodonts, small eel-like vertebrates known mostly from their tooth-like fossils").
 - **Voz de narrador de documentário, clara e direta:** abra frases com "And", "But" e "So" quando soar natural, use expressões como "See,", "Here's the thing" e "Think about it this way" para introduzir uma explicação, use perguntas retóricas e repita uma ideia com variação para dar ênfase. No Formato B, contrações são raras. No Formato A, contrações e coloquialismo são liberados. Nos dois, evite o tom de artigo acadêmico.
 
@@ -245,6 +246,7 @@ Quando todos os capítulos passarem, rode a **Verificação factual** (seção p
    - pelo menos uma "testemunha" física é narrada como evidência;
    - uma comparação de escala se repete;
    - toda ponta solta ou promessa feita ("já chegamos lá") foi resolvida antes do fim do vídeo, salvo o gancho do próximo episódio e mistérios abertos na ciência, ditos como tais;
+   - todo nome técnico (idade geológica, evento, grupo) foi explicado na primeira menção, e os títulos não dependem de termo desconhecido;
    - todo animal importante tem **tamanho em faixa e comparação** na primeira aparição (sem "pequeno" ou "gigante" sem número);
    - cada bloco de evidência importante tem uma **âncora concreta** (objeto, personagem ou curiosidade confirmada) ou uma analogia, e não só números;
    - a variedade de grupos e espécies atinge o **mínimo** do tipo de tema **ou**, se ficou abaixo, cada animal citado foi de fato aprofundado; nenhum nome entra só para encher;
