@@ -285,6 +285,10 @@ Todo roteiro fecha, nesta ordem, em **quatro partes**, no estilo das referência
 
 1. **Conexão com o presente:** o que o evento antigo diz sobre algo que ainda importa hoje (uma questão científica em aberto, um debate atual, um paralelo moderno). Sem frase de resumo genérica.
 2. **Pergunta direta e específica** sobre o que o espectador acabou de ver, para ser respondida nos comentários (por exemplo, qual dos grupos ele acha que tinha a melhor chance de sobreviver, ou qual era o fator decisivo). Nunca "what did you think?".
+   - **Plante a pergunta antes:** perto do fim do primeiro bloco, diga para guardar a pergunta e cobre-a no fecho (um motivo para ficar até o fim).
+   - **Convite curto no meio:** no segundo bloco, inclua uma frase breve convidando a comentar o palpite até ali, sem interromper a cena (uma vez só).
+   - **Pergunta que divide:** prefira uma escolha entre dois ou três lados que gere discordância (quem herdaria o mundo, qual tese convence mais) a uma pergunta de resposta única.
+   - **Não repita um julgamento já ressalvado:** ao listar as opções, descreva cada animal ou tese com o que é sólido, não com uma generalização que o próprio texto relativizou antes.
 3. **Pedido de inscrição**, curto e natural, citando o canal pelo nome: **Darkest Era**.
 4. **Gancho do próximo vídeo:** uma frase que provoque o tema seguinte, ligada ao que o espectador acabou de aprender. Termine com uma despedida curta com o nome do canal (por exemplo, "See you in the next one, on Darkest Era.").
 
