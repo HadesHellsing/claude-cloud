@@ -36,7 +36,7 @@ Você vai escrever roteiros para o canal **Darkest Era**: documentário narrado 
 - Sem resumo antes de começar. A primeira frase do roteiro é a primeira coisa que o narrador diz.
 - **A narração nunca menciona "capítulo", "parte" ou "episódio anterior" ao falar da própria estrutura.** O espectador vê um vídeo só, e a divisão em três capítulos é interna. Para avançar ou retomar, use "daqui a pouco", "mais adiante", "como vimos há pouco", "na sequência". A palavra "próximo vídeo" ou "próximo episódio" só aparece no gancho final, ao falar do vídeo seguinte da série.
 - Entrega: **um único arquivo** com todos os capítulos montados em ordem, como texto contínuo. Nunca um arquivo por capítulo.
-- Fora do arquivo, na resposta ao usuário, entregue separadamente: **2 a 3 opções de título**, a **lista de fontes**, a **ficha de verificação factual** (ver abaixo) e o **mapa dos capítulos**. Isso nunca entra no texto narrado.
+- Fora do arquivo, na resposta ao usuário, entregue separadamente: **2 a 3 opções de título**, a **lista de fontes**, a **ficha de verificação factual** (ver abaixo) o **mapa dos capítulos** e os **intertítulos sugeridos**. Isso nunca entra no texto narrado.
 - **Mapa dos capítulos (fora do roteiro):** uma tabela curta com, para cada um dos 3 capítulos, a **primeira frase** e a **última frase** e a **contagem de palavras** medida com ferramenta. Assim o usuário consegue conferir os limites (1000 a 1200 palavras) mesmo que o arquivo seja contínuo e sem marcações. A soma dos três deve bater com o total do arquivo.
 
 ### Título
@@ -95,6 +95,36 @@ Quase todo vídeo tem **pelo menos um dinossauro (ou réptil mesozoico) como per
 ---
 
 
+## Estrutura mestre (ordem de construção, nos dois formatos)
+
+Esta é a ordem em que o roteiro é construído, tirada dos roteiros de referência. Ela vale para o Formato A e para o B. A diferença entre os formatos está no fio central (A: um catálogo de perigos; B: uma investigação), mas **os blocos têm o mesmo molde**.
+
+1. **Gancho** (primeiros 30 a 45 segundos). Escolha um tipo: **analogia de escala** (por exemplo, comprimir um intervalo enorme de tempo num dia de 24 horas e mostrar onde o tema cai), **cena datada**, **tese extrema** ou **fato extremo**. Termine com uma pergunta que o espectador quer ver respondida ("o que você veria se fosse enviado de volta?").
+2. **Quebra de expectativa.** Diga o que o espectador provavelmente imagina e que **não** é o caso ("você pensa em T. rex, mas nenhum existia ainda").
+3. **Moldura.** Uma frase-regra que organiza todo o catálogo e promete o que vem: por exemplo, "versões estranhas de animais que você conhece, só que com algo errado".
+4. **Blocos-criatura**, um por animal ou grupo (ver o molde abaixo), **o maior ou o mais surpreendente primeiro**. Cada bloco dura de 2 a 5 minutos de narração.
+5. **Fio central.** A pergunta do vídeo reaparece em cada bloco como um **elo** ("e isso era uma ameaça para os dinossauros?", "e os humanos, caçavam isso?").
+6. **Debate:** um único trecho curto, no ponto em que ele aparece na história.
+7. **Fecho:** retoma a moldura e o que ela mostrou, e então o CTA em quatro partes.
+
+### Molde do bloco-criatura
+Em cada bloco, nesta ordem aproximada (nem todo passo precisa de uma frase própria):
+1. **Entrada por comparação** com algo que o espectador conhece ("parecia um elefante atual, mas com as proporções fora do padrão").
+2. **Frase-isca**, um paradoxo ou curiosidade, com a resposta logo a seguir ("o maior mamífero e, ao mesmo tempo, o menor elefante. Como?").
+3. **Tamanho com comparação** (ver a regra de tamanho), usando **dinossauros como régua** quando o animal não for um dinossauro ("mais pesado que qualquer terópode", "chifres maiores que os da maioria dos ceratopsídeos") e animais atuais quando for.
+4. **Arma, defesa ou anatomia incomum** e para que servia.
+5. **Comportamento ou ecologia.**
+6. **O elo com o fio central**, com a ressalva em **uma frase** ("não há prova concreta", "o assunto segue em debate").
+7. **Ponte por contraste** para o próximo bloco ("menor nem sempre significa fácil").
+
+Cada bloco leva **uma curiosidade-troféu**, um fato que o espectador vai querer contar a alguém (o animal com mais cenas de violência na arte rupestre, quatro espécies humanas ao mesmo tempo, um mamífero que soava como dinossauro), e **no máximo um toque de humor leve**, sempre depois do dado.
+
+### Intertítulos
+Na resposta, fora do roteiro, entregue uma lista de **intertítulos sugeridos** para a edição: um título curioso por bloco, no estilo das referências ("Elefantes Maiores que o T. Rex", "Convidado Surpresa?"). Eles nunca entram na narração.
+
+---
+
+
 ## Formatos
 
 Antes de escrever, escolha o formato pelo tema. O usuário pode forçar um.
@@ -131,7 +161,7 @@ Alterne predadores supremos com animais menos ameaçadores ou herbívoros perigo
 **Divisão em 3 capítulos:** o 1º traz tese, janela de tempo e lugar e o primeiro grupo de predadores; o 2º traz os grupos principais; o 3º traz os demais grupos, o bloco "e a natureza também", o desfecho e o CTA.
 
 ### Formato B — estrutura
-Investigação de um mistério, com as regras de "Corpo" abaixo. Divisão em 3 capítulos: o 1º traz cena, mistério e mundo; o 2º traz evidência e mecanismo; o 3º traz consequências, desfecho e CTA.
+Investigação de um mistério, com as regras de "Corpo" abaixo, **organizada pela estrutura mestre**: a pergunta central é o fio, e cada pista vira um **bloco** com o molde acima (um objeto, um animal ou um lugar que torna a pista tangível, com tamanho, curiosidade-troféu e elo). Divisão em 3 capítulos: o 1º traz gancho, quebra de expectativa, moldura e o mundo; o 2º traz as pistas e o mecanismo; o 3º traz consequências, o debate curto e o fecho com o CTA.
 
 ---
 
@@ -283,6 +313,9 @@ Quando todos os capítulos passarem, rode a **Verificação factual** (seção p
    - uma comparação de escala se repete;
    - toda ponta solta ou promessa feita ("já chegamos lá") foi resolvida antes do fim do vídeo, salvo o gancho do próximo episódio e mistérios abertos na ciência, ditos como tais;
    - todo nome técnico (idade geológica, evento, grupo) foi explicado na primeira menção, e os títulos não dependem de termo desconhecido;
+   - **ordem da estrutura mestre:** gancho, quebra de expectativa, moldura, blocos-criatura, fio central, debate curto e fecho, nessa sequência;
+   - cada bloco segue o **molde** (comparação, frase-isca, tamanho com comparação, anatomia, comportamento, elo, ponte), tem uma **curiosidade-troféu** e, no máximo, um toque de humor leve;
+   - animais que não são dinossauros foram comparados com dinossauros quando fez sentido, e a lista de **intertítulos sugeridos** está pronta;
    - cada animal-guia tem pelo menos 2 ou 3 curiosidades pesquisadas e verificadas, e os secundários pelo menos uma;
    - **orçamento de rigor:** no máximo uma ressalva explícita por bloco de evidência, um único trecho de debate (até cerca de 150 palavras), estudos nomeados só quando são a curiosidade, nenhum quadro final "sólido, debatido, hipótese" e nenhuma conta de razão desnecessária;
    - nenhuma frase de comentário sobre o próprio texto (busque "Pense na escala", "Veja a conta", "Atenção ao que isso significa", "uma pergunta de método", "o quadro é este", "Como conciliar");
