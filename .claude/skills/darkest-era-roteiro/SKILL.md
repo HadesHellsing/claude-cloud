@@ -91,6 +91,10 @@ Quase todo vídeo tem **pelo menos um dinossauro (ou réptil mesozoico) como per
 - O animal-guia leva **pelo menos 2 ou 3 curiosidades**; os secundários, **pelo menos uma**. Escolha as mais surpreendentes e verificáveis.
 - A curiosidade serve à cena ou ao argumento. Não liste fatos só para encher, e não use mais do que o capítulo comporta.
 - Toda curiosidade passa pela verificação factual como qualquer outro dado.
+- **Nada de miolo sem bicho:** não passe de cerca de 250 palavras seguidas de contexto (clima, geologia, método) sem um animal em cena. Se o assunto exige explicar o mecanismo, faça um animal viver dentro dele (uma cena imaginada e sinalizada como imaginada, sem inventar fato).
+- **Âncoras de tamanho diferentes:** não use a mesma comparação do dia a dia para animais de pesos diferentes (por exemplo, "cachorro de porte médio" para dois bichos). Escolha uma âncora por animal e varie entre comprimento, peso e objetos.
+- **Dado de um indivíduo não vira regra da espécie:** se a medida (mordida, tamanho, lesão) veio de um jovem ou de um único exemplar, diga isso, e não use depois adjetivos ("rei de mordida fraca") que a generalizem.
+- **Curiosidade fora do cenário não entra:** parente de outro continente ou época só aparece se servir ao argumento do bloco.
 
 ---
 
@@ -291,6 +295,8 @@ O fechamento não inclui plug de livro, patrocinador ou membership, a menos que 
 
 Roda sozinha, capítulo a capítulo. Nunca pause para perguntar ao usuário.
 
+**Gere em ordem:** escreva o capítulo 1, depois o 2, depois o 3, cada um em seu próprio arquivo, nunca pulando nem reordenando. Antes de começar o capítulo seguinte, releia o fim do anterior: a primeira frase do próximo precisa continuar a ponte que o anterior deixou (sem repetir o que já foi dito e sem "voltar no tempo" sem avisar). Só monte o arquivo único depois dos três passarem na contagem, na ordem 1, 2, 3, com uma linha em branco entre eles.
+
 Depois de escrever **cada** capítulo, antes de passar ao próximo:
 
 1. **Conte as palavras com uma ferramenta** (por exemplo, `wc -w` num arquivo temporário do capítulo). Nunca estime de cabeça.
@@ -326,7 +332,9 @@ Quando todos os capítulos passarem, rode a **Verificação factual** (seção p
    - (Formato B) o viajante do tempo aparece de 2 a 3 vezes, o endereçamento direto tem formulações diferentes entre si e há no máximo uma ironia seca por capítulo;
    - (Formato A) a tese do gancho reaparece no fim de cada bloco principal, existe o bloco "e a natureza também", a virada final é sustentada por evidência e, em cada animal importante, o que é inferido está dito como inferido;
    - nos dois formatos, nenhuma piada em cima de ressalva científica e nenhum humor substituindo um dado;
-   - nenhum extremo de estimativa (tamanho, peso, força de mordida) apresentado como fato único;
+   - nenhum extremo de estimativa (tamanho, peso, força de mordida) apresentado como fato único, e nenhum dado de um jovem ou exemplar único generalizado para a espécie;
+   - nenhum trecho de cerca de 250 palavras ou mais sem animal em cena, e nenhuma âncora de tamanho repetida para animais de pesos diferentes;
+   - cada capítulo abre continuando a ponte do anterior, sem salto de tempo não avisado;
    - (Formato B) a cena de abertura vem antes de qualquer panorama geral do mundo da época;
    - (Formato B) existe um bloco "como os cientistas sabem" antes da conclusão principal e, se houve hipótese errada seguida de virada na história da ciência, ela foi contada (sem inventar);
    - o fechamento tem as quatro partes, na ordem, com o nome Darkest Era.
